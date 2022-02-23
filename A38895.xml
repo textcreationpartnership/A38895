@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true relation of the behaviour of Edmund Kirk, John Bennet, Morgan Keading [i.e. Reading] and Andrew Hill, during their imprisonment, and at the place of execution on Friday the 11th of this instant July 1684 with their last dying words and speeches at Tyburn.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38895</idno>
+            <idno type="STC">Wing E3615</idno>
+            <idno type="STC">ESTC R12401</idno>
+            <idno type="EEBO-CITATION">13016820</idno>
+            <idno type="OCLC">ocm 13016820</idno>
+            <idno type="VID">96563</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96563)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 738:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true relation of the behaviour of Edmund Kirk, John Bennet, Morgan Keading [i.e. Reading] and Andrew Hill, during their imprisonment, and at the place of execution on Friday the 11th of this instant July 1684 with their last dying words and speeches at Tyburn.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Elizabeth Mallet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kirk, Edmund, d. 1684.</term>
+               <term>Bennet, John, d. 1684.</term>
+               <term>Reading, Morgan, d. 1684.</term>
+               <term>Hill, Andrew, d. 1684.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:96563:1"/>
+            <pb n="1" facs="tcp:96563:1" rendition="simple:additions"/>
+            <head>An Exact and True Relation of the BEHAVIOUR of EDMUND KIRK, JOHN BENNET, MORGAN KEADING and ANDREVV HILL During their Impriſonment, and at the place of EXECUTION On <hi>Friday</hi> the 11th. of this inſtant <hi>July</hi> 1684.</head>
+            <head>With their Laſt Dying Words AND SPEECHES AT TYBURN.</head>
+            <p>AT the Seſſions in the <hi>Old-Baily,</hi> on the 2d. and 3d. of <hi>July,</hi> Nine Criminals re<g ref="char:EOLhyphen"/>ceived Sentence of Death, of which number five were Reprieved, and the other four <hi>(Viz) Edmund Kirk, John Bennet, Morgan Reading</hi> and <hi>Andrew Hill,</hi> were this day Executed.</p>
+            <p>
+               <hi>Andrew Hill</hi> and <hi>Morgan Reading,</hi> were indicted for <hi>Felony</hi> and <hi>Burglary,</hi> for breaking in to the Houſe of his <hi>Grace</hi> the <hi>Duke</hi> of <hi>Ormond,</hi> and of this Fact found guilty, and received Sentence of Death.</p>
+            <p>
+               <hi>John Bennet,</hi> was indicted for ſtealing a <hi>Mare</hi> of the Goods of one Mr <hi>Saunders.</hi> His Comerade was <hi>John Holtham,</hi> who with him received Sentence of Death for the ſame Fact, but hath ſince received his Majeſties moſt gracious Reprieve.</p>
+            <p>Since the time of Condemnation, they rather appeared concerned at the Puniſhment than Penitent for the Crime: Till upon <hi>Sunday</hi> in the Morning they went to <hi>Chappell,</hi> where after the Prayers of the Church, Mr. <hi>Ordinary</hi> Preached to them upon the 33th. <hi>of Ezek.</hi> &amp; the 11th. <hi>Ver. Say unto them as</hi> I <hi>live,</hi> &amp;c. In the Afternoon, Dr. <hi>Hawkins</hi> Miniſter of St. <hi>Bar<g ref="char:EOLunhyphen"/>tholomews,</hi> whoſe Text was in <hi>Ezek.</hi> Chap. 16. <hi>Ver</hi> 25. <hi>Thou haſt built the High place</hi> &amp;c. During the <hi>Sermon, Bennet</hi> appeared very penitent, and was obſerved to weep and often ſha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his Head, which were the outwards ſigns of his inward ſorrow and contrition.</p>
+            <p>The other two ſat very compoſed, and the good effects they received from the pious diſ<g ref="char:EOLhyphen"/>courſes of the Preachers was more hoped for, from their, ſerious Meditation, than by any publick Tokens or Expreſſions of it.</p>
+            <p>
+               <hi>Edmund Kirk,</hi> another of the Offenders who this day ſuffered, was indicted for the Mur<g ref="char:EOLhyphen"/>ther of his vvife <hi>Joan Kirk,</hi> whoſe dead body was found in a Field near <hi>Paddington</hi> by a Mower; her Throat was cut, and her Head and Face miſerably beat and bruiſed. The E<g ref="char:EOLhyphen"/>vidence at his Tryal was plain againſt him, nor had the Priſoner any thing to ſay for him<g ref="char:EOLhyphen"/>ſelf that could give the <hi>Court</hi> or the <hi>Jury</hi> the leaſt ſatisfaction to think him innocent: All the time of his impriſonment, he behav'd himſelf very Penitent, but more eſpecially after Sentence of Death as appears by thoſe Prayers which were writ by his own hand and of his own expreſſion, with a full Account of his Life and Converſation, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u theſe following VVords.</p>
+            <pb n="2" facs="tcp:96563:2"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="confession">
+                        <p>
+                           <hi>O Lord</hi> I <hi>moſt humbly crave thy Aſſiſtance in the performance of this work</hi> I <hi>am about to begin, to ſhew the World, how the hopes of vain glory, and the allurements of Sin and Satan have prevail<g ref="char:EOLhyphen"/>ed upon my unhappy ſelf, and that by declareing to all Chriſtian People the ſeveral ways of my in<g ref="char:EOLhyphen"/>ticeing Sins which have brought me to this ſhameful death;</hi> I <hi>may forewarn others from following thoſe nicked courſes which will certainly bring e'm to the ſame miſerable end.</hi>
+                        </p>
+                        <p>I was born at <hi>Fetcham</hi> in the County of <hi>Surry,</hi> where my Father lived, by name <hi>Edmund Kirk,</hi> I was his third Son, and he dying in the ſixth year of my Age; I was ſome time after put to Board with Mrs. <hi>Nelſon</hi> of <hi>Mucklam</hi> in the County aforeſaid, where having been with her for the ſpace of one year or there abouts; I was removed to Mr. <hi>Gervis</hi> a Malt<g ref="char:EOLhyphen"/>man at <hi>Eaſted,</hi> with whom I continued the ſpace of ſix years, who coming to <hi>Kingſton</hi> upon <hi>Thames</hi> I then went to the Free-School there to one Mr <hi>Rowel</hi> for two years of that time.</p>
+                        <p>Being now near thirteen years of Age, my <hi>
+                              <g ref="char:V">Ʋ</g>ncle</hi> who lived in <hi>London</hi> a Hatband-maker, deſired I ſhould be with him, with whom I lived a year or more, but not fancying the Trade, <hi>I</hi> then went to my Brother a Watch-maker where I was about half a year, but not likeing that Trade I removed to my <hi>
+                              <g ref="char:V">Ʋ</g>ncle's</hi> again as the place of my habitation and refuge when in any neceſſity: I had not been there above the ſpace of five Weeks, but <hi>I</hi> fancyed the way or Calling of a Vintner, and was firſt placed with Mr. <hi>Symmons</hi> at the <hi>Kings Head</hi> Tavern near <hi>Guild-Hall,</hi> where I was five Weeks, and then my Uncle and Brother became bound for me, and <hi>I</hi> engaged my ſelf for the ſpace of ſeven years, of which I ſerved him very tru<g ref="char:EOLhyphen"/>ly and honeſtly four years, and after this time was expired I became a Servant at the Miter Tavern in <hi>Kings-ſtreet Weſtminſter,</hi> where I lived out two years and a half: After I had been about half a year at the <hi>Miter,</hi> I uſed to go to the <hi>Leg Tavern</hi> with ſome Friends to drink, where <hi>Joan Green,</hi> (alias) <hi>Kirk,</hi> who was ſince my poor wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e, then lived, going often thither I obſerved this woman, and took the opportunity of being acquainted with her: my fre<g ref="char:EOLhyphen"/>quent Viſits having now made me familiar with her: I began to feel in my ſelf a more parti<g ref="char:EOLhyphen"/>cular reſpect and affection for her, which having diſcovered to her, ſhe accepted of my Love, whereupon I made her a promiſe to Marry her, which ſhe very ſoon and willingly embraced. After I had thus given her my promiſe to Marry her, ſhe uſed frequently to come to the <hi>Miter,</hi> and was by her very o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ten inquiries for me, very troubleſome to me, and taken notice of by my Maſter and Miſtreſs, who asked me for what reaſon this woman ſo continu<g ref="char:EOLhyphen"/>ally haunted me, that ſhe took me off of my buſineſs, and in the end would prove very prejudicial to me if <hi>I</hi> did not forſake her company, which they both adviſed me to, as my friends, who wiſhed me well. Sometime after ſhe left her Service at the <hi>Leg</hi> and my Miſt<g ref="char:EOLhyphen"/>reſs hired her into our houſe, where we lived together for threequarters of a year, and then ſhe went into the Country, and after her coming up to Town, lived at a Merchants houſe in <hi>Thames ſtreet.</hi> After I had ſtayed a twelve month longer at the <hi>Miter,</hi> I went to the <hi>Swan</hi> at the upper end of <hi>Fanchurch Street,</hi> where I had not been above three days but ſhe followed me, ſtill urging and preſſing me to Marry her as ſhe had done before, ſo oft<g ref="char:EOLhyphen"/>en that I began to grow weary of her importunities and left that place, and went to the <hi>Sun</hi> by <hi>Cr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>pplegate,</hi> where I was a Fortnight but ſhe found me out again and ſtill urged me to Marry her, I told her <hi>I</hi> could not do it yet with conveniencie to my ſelf and my own buſineſs, that I had ſome Mony in the <hi>Chamber</hi> of <hi>London,</hi> which was ſixſcore Guinnys, and ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>teen Pound <hi>per Annum,</hi> which was to come to me, after my Mother in Laws Deceaſe, that if <hi>I</hi> could not raiſe enough to ſet up a Tavern. <hi>I</hi> would keep a <hi>Victualling houſe.</hi> Theſe diſcourſes did not give her that ſatisfaction I expected from her, but ſhe perſiſted in preſſing me to Marry her preſently ſo that <hi>I</hi> became diſcontented, ſince I could not ſettle in any place but was ſtill purſued by her, and diſcompoſed in my own thoughts and bu<g ref="char:EOLhyphen"/>ſineſs. <hi>I</hi> left that place, but hoping <hi>I</hi> ſhould be more at eaſe conſented to Marry her, which I did within five or ſix days, and then went to Mr. <hi>Hill</hi> at the <hi>Roſe</hi> in <hi>Pye-Corn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>r</hi> about eight days after <hi>I</hi> was Married; ſhe being then in Service at a Gentlemans houſe in <hi>Fiſh-ſtreet.</hi>
+                        </p>
+                        <p>On <hi>Sunday</hi> the 25th. of <hi>May,</hi> I called upon her at her Maſters houſe, and deſired her to go out and walk with me, and when we came into a Field near <hi>Paddington</hi> I did that Bloody Act, for which I new deſervedly ſuffer. I do confeſs to all the world, it has been the great trouble and afflictio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> of my soul, that I ſhould be ſo Barbarous and Cruel to her, and <hi>I</hi> cannot but praiſe the infinite Mercys of Almighty God, who was been pleaſed to give me time to repent, who had not ſo much Pitty or Conſideration, with me, to allow her one Moments reſpit to ſay her prayers in. I firſt gave her a knock with my Cane which beat her back, and falling down <hi>I</hi> cut her throat with a ſmall Knife I had in my pocket, without giving her the liberty of ſpeaking one word of Mercy.</p>
+                        <p>It was the preſent inſtigation of the Devil, that put it into my head at that inſtant, nor had I, when I call'd her out from her Maſters houſe, any thought of committing; that horrid Murther upon her, which I hope Almighty God will pardon me for.</p>
+                        <p>VVHereas the all-ſearching Eye of God, in whoſe preſence Darkneſs is Light, has by the ſending of his Vengeance upon me meritoriouſly, and the Terrors of the Lord, which ſhould perſwade all men to true Repentance, having ſeized my very Soul, <hi>I</hi>
+                           <pb n="3" facs="tcp:96563:2"/>think it equally My Obligation to man, and man kind, and my Duty to my Almighty God; to give a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ull account to the World, to prevent the Fatal Entertainment of thoſe Sins, and the ſubtilty of that Prince of Darkneſs, which has brought me to this untimely and ſhameful death, in order that Virtue may have its full value, and Vice, be painted in its proper Colours. I have been guilty of Innumerous heinous Offences and ſins of the greateſt Magnitude, and thoſe learned from the Evil Company that I conſtantly frequented, and nouriſhed by letting looſe the Reigns to my own ruine: the commands of God were always vile and cheap to me and my ir<g ref="char:EOLhyphen"/>regular life tranſcendently more eligible and preferable before the leaſt thought of <hi>Eternity:</hi> So that I confeſs before God, and the World, that the breaking of the Sabbath, was the fatal bane to my proſperity, and living Chriſtianly here; and may without the great mercy of God prove ſo hereafter; nor was this the period of my wicked and unchriſtian life, as I was naturally inclined to all manner of <hi>Lewdneſs</hi> that my <hi>Age</hi> and <hi>Stature</hi> was capable of, ſo I added the <hi>Whip</hi> and <hi>Spur</hi> to my inordinate affections, and was as induſtrious to find out ſuitable Companions, as eager and ready to conſent to their Wickedneſs; hence it is that <hi>Drukenneſs, Luſt</hi> and <hi>Lying,</hi> have had the ſole Dominion and Rule over me, and my Paſſion as frequently above my princi<g ref="char:EOLhyphen"/>ples, as my Pride was exalted above all that is called good, ſo that now I have made a wooful experiment, how fatal it is to live without God in the World, to be deſtitute of regeneration, a turning from Darkneſs unto Light, and from the power of <hi>Satan,</hi> unto the Kingdom of God: As to the Crime I am accuſed of, I never wanted ſo much grace as not to confeſs it, and were <hi>I</hi> to gain a thouſand Worlds to tranſact it, <hi>I</hi> ſhould rather refuſe them than be perpetually haun<g ref="char:EOLhyphen"/>ted with an evil Conſcience which inſeperably attends ſuch abominable and helliſh crimes; ſome may perhaps expect that I ſhould mitigate and leſſon my Sin, by alledging ſome inductives that may be proper to that purpoſe, but as the Fact was barbarous even to the higheſt degree, ſo if I had the greateſt provocation in the World it could never ſtand me in any ſtead or excuſe either to God or Man, and therefore it is as needleſs to apoligize me as Sinful to blame the Inno<g ref="char:EOLhyphen"/>cent, though indeed my Wife had given me perpetual occaſions to be paſſionate, but not to that degree as to be guilty of Murder.</p>
+                        <p>O <hi>Lord, moſt Holy, Good and Gracious Everlaſting, and Bleſſed Lord God, how Glorious art thou Lord God; thou art a great God; and a merciful God, and thou haſt done for me a thouſand times more then I have deſerved: I muſt confeſs, I have been a great Sinner;</hi> I <hi>have done thoſe things which</hi> I <hi>ought not for to have done; and</hi> I <hi>have left undone thoſe things which</hi> I <hi>ought for to have done; Lord help me, and ſtrengthen my Faith; Every Minute more and more; thoſe few Minutes, that</hi> I <hi>have for to live in this World, that when my Soul and Body parts, My Soul may aſcend up to Hea<g ref="char:EOLhyphen"/>ven, and he that ſhed his precious Blood for Sinners if it be his Bleſſed Well, may make my peace with God. Lord let my ſins be covered; forſake me not, becauſe of my Sins, for</hi> I <hi>have been a great Sinner. I have offended againſt all thy Holy Laws,</hi> I <hi>have humbly confeſt them all.</hi>
+                        </p>
+                        <p>
+                           <hi>Lord, for Chriſt Jeſus ſake forgive me all my Sins:</hi> I <hi>have confeſs'd them upon my bended Knees; grant that</hi> I <hi>may be a warning to others, that they may ſpend their Sabbath better, walk uprightly and juſtly and do nothing contrary to Gods Law: Lord receive my everlaſting Soul, Jeſus keep me from the Torments of Hell; One thing more</hi> I <hi>Beg Lord, bleſs my poor Friends that</hi> I <hi>ſhall leave behind me, and give them Grace to undergo this trouble: and now</hi> I <hi>part in peace,</hi> I <hi>have repented me of all my Sins, and for Chriſt Jeſus ſake enable me with all things neceſſary this day, concluding my imper<g ref="char:EOLhyphen"/>fect Prayer, as Chriſt himſelf hath taught me, ſaying,</hi> (our Father which art in Heaven<g ref="char:punc">▪</g>
+                        </p>
+                        <p>OH that men would conſider this in time, how ſin will one day change their Countenance, howe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>er it cometh at firſt in a flattering form, pretending nothing but Friendſhip, but in the end will leave a Sting behind it, even a guilty Conſcience, terror of mind, and anguiſh of Spirit. There one let us fly from Sin, as from the biting of a Serpent, that we be not ſtung therewith unto Eternal Death: (Knowing that the wages of Sin is Death.)</p>
+                        <p>O Moſt Merciful and ever Bleſſed Lord God; <hi>I</hi> beſeech thee O Lord, look down up<g ref="char:EOLhyphen"/>on me with an Eye of pitty, if it be thy Bleſſed Will: it is thy infinite Mercy that I am on this ſide the Grave, and out of Hell. O Lord <hi>I</hi> have deſerved to be caſt into Tor<g ref="char:EOLhyphen"/>ments to all Eternity, how have <hi>I</hi> offended thee, and run into Sin, and thought I could ne<g ref="char:EOLhyphen"/>ver do enough to abuſe thy Mercy, pardon the ſins that I have commited, waſh that Blood from off my Soul: Let not my Soul periſh to Eternity. It was an horrid Crime to ſhed Innocent Blood; pardon that ſin, O Lord let not the Blood of that Creature cry for vengeance O Lord, thou haſt been Merciful to me, in giving me time to repent: for ought I know, her Soul is undone for ever; Lord forgive me, I new not what <hi>I</hi> did, forgive my Sabbath breaking, Lyi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g, Curſing; forgive my Drunkenneſs, blot them out of thy Book of Re<g ref="char:EOLhyphen"/>membrance, turn them away behind thee: O Lord <hi>I</hi> have repented of them from my Soul, that ever <hi>I</hi> ſhould offend a God, ſo Good, and ſo Merceiful and Gracious, <hi>I</hi> do believe on thee, and do wholy throw my ſelf upon thee: <hi>I</hi> acknowledge it would be juſt in thee to Damn my Soul, but it would be infinite Mercy in thee to ſave me; and what free Grace
+<pb n="4" facs="tcp:96563:3"/>will it be in thee to pardon me: it is dreadful to looſe the Body, but how dreadful will it be to looſe the Soul to all Eternity. Lord let it not be in vain that <hi>I</hi> have had ſo many inſtructions, O let me not go down to Hell, let my ſoul Bleſs and prriſe thy. Name for ever; for what thou haſt done for me, thou haſt been at work upon my heart, and thou haſt helped me to repent (the Lord be praiſed) Lord I deſire to be more and more humble, under the ſene of my ſins, for they are dreadful. There are many Souls that have not com<g ref="char:EOLhyphen"/>mitted thoſe ſins, that are now in Hell; O what Mercy it is, that <hi>I</hi> am not in thoſe flames, in thoſe devouring Flames. Lord as thou haſt ſpared me here, ſpare me to Eternity, let not my Soul periſh: Lord reveal thy ſelf unto me, make known thy Love unto me; tell me my ſin are pardoned tell me that I have an intreſt in Chriſt, before I go hence, and be ſeen no more; that <hi>I</hi> might leave ſome Teſtimony behind me, that I might tell thy Mi<g ref="char:EOLhyphen"/>niſtry what thou haſt done for me, and tell thy people what thou haſt done for my Soul. Lord this will not be only for my Satisfaction, but for thy Glory. Bleſſed Lord, pardon the ſins that <hi>I</hi> am Guilty of, and take away this curſed baſe heart of mine; Break this Rockie Stonie Heart in pieces: the ſins of Murther and Drunkenneſs were in my heart before: <hi>I</hi> thought no Eyes did ſee me commit thoſe ſins, but thou didſt ſee me, Lord turn my heart to thee, and take away this heart of Stone, and take away this curſed Nature that brought me to theſe ſins, and to this End, and I was in danger of looſing my ſoul to all Eternity; but Lord, tha <hi>I</hi> am a great ſinner, Chriſt is a great Saviour, he is able to free me from my ſins tho they be never ſo great; I do believe Lord, <hi>I</hi> do ſpeak freely from my heart: ſo far as I know my heart I do believe, it is my grief I can ſorrow no more for my ſins which have been the cauſe of my offending thee ſo long and ſo much. One drop of thy Blood ſprinkled upon my ſoul will pardon all my ſins, Lord croſs the black line of my ſins with the red line of my Blood, <hi>I</hi> am not able to anſwer for one vain thought, much leſs for all my horrid crimes; Lord ſave my immortal ſoul, that <hi>I</hi> may ſing praiſe to thee to all E<g ref="char:EOLhyphen"/>ternity; thou haſt pardoned <hi>Manaſſeth</hi> that was a great ſinner, and <hi>Mary Magdalen</hi> and <hi>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>aul</hi> that were great ſinners, the <hi>Thief</hi> upon the <hi>Croſs;</hi> and thy Mercies are as great, thy Mercies and thy Love to repenting ſinners is not ſhortned, though my ſins are great, yet, thy mercies are greater than my ſins; Lord be with me in my Death, then let me have ſome comfortable aſſurance of thy Love unto my ſoul, of the pardon of my ſins, do thou be my God and my Guide now, and to all Eternity, <hi>Amen.</hi>
+                        </p>
+                        <closer>
+                           <signed>EDMUND KIRK.</signed>
+                           <dateline>
+                              <date>
+                                 <hi>July</hi> the 11th. 1684.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This Morning between Nine and Ten of the Clock they were put into two Carts at <hi>Newgate; Kirk</hi> and <hi>Bennet</hi> into one Cart, and <hi>Hill and Reading</hi> into the other; the Cart that <hi>Hill</hi> and <hi>Reading</hi> was in went foremoſt; <hi>Reading</hi> had a Book in his hand intituled <hi>Fry<g ref="char:EOLhyphen"/>ers for the Sick; Hill</hi> appeared very Penitent calling uppon God Almighty for Mercy in theſe Ejaculations <hi>Lord hrve mercy upon me, Chriſt have mercy upnn me,</hi> &amp;c. <hi>Kirk</hi> had a Bible in his hand and ſeemed yery Penitent, but with a chearful Countenance: <hi>Bennet</hi> had no Book in his hand nor ſaid any thing.</p>
+            <p>At the place of Execution, they all four went into one Cart, where Mr. <hi>Ordinary</hi> pray'd with them: <hi>Reading</hi> declared he dyed a <hi>Roman Catholick: Hill</hi> blam'd a former Companion of his own <hi>Richard Johnſon,</hi> who had brought him into thoſe leud Courſes and pray'd hearti<g ref="char:EOLhyphen"/>ly, but appeared a very ignorant perſon. <hi>Kirk</hi> made no Confeſſion, but pray'd the ſame Prayer which he had penn'd in Priſon, and is mention'd before, Viz. <hi>O Lord Moſt Holy,</hi> &amp;c. He gave his Bible to his Uncle who was in the Cart with him, for the uſe of his Daughter <hi>E<g ref="char:EOLhyphen"/>lizabeth Kirk:</hi> The Cart was drawn away, and they ſuffered according to Law.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Entered according to Order.</hi>
+            </p>
+            <p>LONDON <hi>Printed by</hi> Elizabeth Mallet <hi>in</hi> Blackhorſe-Alley, <hi>near</hi> Fleet-Briegd</p>
+            <pb facs="tcp:96563:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
